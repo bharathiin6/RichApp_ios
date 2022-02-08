@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778706497441",
+    "firebase_url": "https://richapp-42e7d-default-rtdb.firebaseio.com",
+    "project_id": "richapp-42e7d",
+    "storage_bucket": "richapp-42e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778706497441:android:0302356abce9f2473865e0",
+        "android_client_info": {
+          "package_name": "com.richapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778706497441-c5hp5e7bbg7n6kg0tlogpqrn1gban9h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChUQeS8fOJNTRFvo9_dhI3Zc3ODojLO2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778706497441-c5hp5e7bbg7n6kg0tlogpqrn1gban9h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
